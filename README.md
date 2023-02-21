@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FranklynRod
-- 👀 I’m interested in creating accessibile technology, UI, and Frontend Programming
+- 👀 I’m interested in creating end to end user accessibile full stack applications. 
 - 🌱 I’m currently attending Ada Developers Academy 
 - 💞️ I’m looking to collaborate on full stack-projects.
 - 📫 How to reach me? You can reach me on Linkedin at https://www.linkedin.com/in/franklyn-abedi-rodriguez-06b09a84/
